@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\documents\repo\b00m-h3adsh0t\gitchbox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\documents\repo\b00m-h3adsh0t\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\documents\repo\b00m-h3adsh0t\memory_searcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\documents\repo\b00m-h3adsh0t\calcangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\documents\repo\b00m-h3adsh0t\glitchbox.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\documents\repo\b00m-h3adsh0t\playerdata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="camera-sdk\sdk_api_docs\genindex.html" />
+    <None Include="camera-sdk\sdk_api_docs\getting_started.html" />
+    <None Include="camera-sdk\sdk_api_docs\index.html" />
+    <None Include="camera-sdk\sdk_api_docs\introduction.html" />
+    <None Include="camera-sdk\sdk_api_docs\modules.html" />
+    <None Include="camera-sdk\sdk_api_docs\py-modindex.html" />
+    <None Include="camera-sdk\sdk_api_docs\sdk.html" />
+    <None Include="camera-sdk\sdk_api_docs\search.html" />
+    <None Include="camera-sdk\sdk_api_docs\tutorials.html" />
+    <None Include="camera-sdk\sdk_api_docs\tutorials\basic_tut1.html" />
+    <None Include="camera-sdk\sdk_api_docs\tutorials\basic_tut2.html" />
+    <None Include="camera-sdk\sdk_api_docs\tutorials\basic_tut3.html" />
+    <None Include="camera-sdk\sdk_api_docs\tutorials\basic_tut4.html" />
+    <None Include="camera-sdk\sdk_api_docs\tutorials\basic_tut5.html" />
+    <None Include="camera-sdk\sdk_api_docs\_modules\index.html" />
+    <None Include="camera-sdk\sdk_api_docs\_modules\logging.html" />
+    <None Include="camera-sdk\sdk_api_docs\_modules\sdk\camera.html" />
+    <None Include="camera-sdk\sdk_api_docs\_modules\sdk\frame_iterators.html" />
+    <None Include="camera-sdk\sdk_api_docs\_modules\sdk\ipcprovider.html" />
+    <None Include="samples\official\camera-tagging\modules\camerataggingmodule\cameraclientmodule\public\index.html" />
+  </ItemGroup>
+</Project>
